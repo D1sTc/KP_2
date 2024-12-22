@@ -1,0 +1,15 @@
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\MainWindow.g.cs
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\App.g.cs
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP_MarkupCompile.cache
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP_MarkupCompile.lref
+C:\Users\Home-pc\Desktop\KP\KP\bin\Debug\KP.exe.config
+C:\Users\Home-pc\Desktop\KP\KP\bin\Debug\KP.exe
+C:\Users\Home-pc\Desktop\KP\KP\bin\Debug\KP.pdb
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\MainWindow.baml
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.g.resources
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.exe
+C:\Users\Home-pc\Desktop\KP\KP\obj\Debug\KP.pdb
